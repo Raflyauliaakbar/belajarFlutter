@@ -20,11 +20,11 @@ Aplikasi **Registrasi Mahasiswa** adalah aplikasi sederhana berbasis Flutter yan
 
 ### ✏️ Edit Data
 
-![Edit Data](images/edit.png)
+![Edit Data](images/Edit.png)
 
 ### ❌ Hapus Data
 
-![Hapus Data](images/hapus.png)
+![Hapus Data](images/Hapus.png)
 
 ---
 
